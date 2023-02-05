@@ -1,0 +1,8 @@
+{
+  "status": "ok",
+  "data": {
+    "androidLink": "market://details?id=net.itify.coinmaster",
+    "iosLink": "itms-apps://apps.apple.com/app/id${IOS_APP_ID}?action=write-review",
+    "privacyLink": "http://coinmaster.itify.net/privacy"
+  }
+}
