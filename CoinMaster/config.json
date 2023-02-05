@@ -2,7 +2,7 @@
   "status": "ok",
   "data": {
     "androidLink": "market://details?id=net.itify.coinmaster",
-    "iosLink": "itms-apps://apps.apple.com/app/id${IOS_APP_ID}?action=write-review",
+    "iosLink": "itms-apps://apps.apple.com/app/id1663585274",
     "privacyLink": "https://masterspin.itify.net/policy.html",
     "termLink": "https://masterspin.itify.net/term-of-service.html"
   }
