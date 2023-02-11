@@ -223,7 +223,7 @@
     {
       "flag": "my",
       "country": "Malaysia",
-      "file": "https://raw.githubusercontent.com/ITIFY-NET/config/main/ProGamingVPN/tcp/NCVPN-AL-Tirana-TCP.ovpn"
+      "file": "https://raw.githubusercontent.com/ITIFY-NET/vpn_config/main/ProGamingVPN/udp/NCVPN-MY-Kuala Lumpur-UDP.ovpn"
     },
     {
       "flag": "nl",
