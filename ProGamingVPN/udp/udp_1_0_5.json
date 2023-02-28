@@ -103,7 +103,8 @@
     {
       "flag": "de",
       "country": "Germany",
-      "file": "https://raw.githubusercontent.com/ITIFY-NET/vpn_config/main/ProGamingVPN/udp/NCVPN-DE-Frankfurt-UDP.ovpn"
+      "file": "https://raw.githubusercontent.com/ITIFY-NET/vpn_config/main/ProGamingVPN/udp/NCVPN-DE-Frankfurt-UDP.ovpn",
+      "free": true
     },
     {
       "flag": "dk",
@@ -275,7 +276,8 @@
     {
       "flag": "sg",
       "country": "Singapore",
-      "file": "https://raw.githubusercontent.com/ITIFY-NET/vpn_config/main/ProGamingVPN/udp/NCVPN-SG-Singapore-UDP.ovpn"
+      "file": "https://raw.githubusercontent.com/ITIFY-NET/vpn_config/main/ProGamingVPN/udp/NCVPN-SG-Singapore-UDP.ovpn",,,
+      "free": true
     },
     {
       "flag": "si",
@@ -340,8 +342,7 @@
     {
       "flag": "us",
       "country": "United States",
-      "file": "https://raw.githubusercontent.com/ITIFY-NET/vpn_config/main/ProGamingVPN/udp/NCVPN-US-Chicago-UDP.ovpn",
-      "free": true
+      "file": "https://raw.githubusercontent.com/ITIFY-NET/vpn_config/main/ProGamingVPN/udp/NCVPN-US-Chicago-UDP.ovpn"
     },
     {
       "flag": "us",
