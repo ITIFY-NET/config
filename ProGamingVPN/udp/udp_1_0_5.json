@@ -426,7 +426,7 @@
       "file": "https://raw.githubusercontent.com/ITIFY-NET/vpn_config/main/ProGamingVPN/udp/NCVPN-ZA-Johannesburg-UDP.ovpn"
     },
     {
-      "flag": "vi",
+      "flag": "vn",
       "country": "Viet Nam",
       "file": "https://raw.githubusercontent.com/ITIFY-NET/vpn_config/main/ProGamingVPN/udp/NCVPN-VN-VietNam-UDP.ovpn",
       "free": true
